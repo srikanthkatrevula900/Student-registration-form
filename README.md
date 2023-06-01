@@ -18,7 +18,7 @@ This project is a web-based student registration form that allows students to en
 ## Installation
 
 - Clone the repository: git clone https://github.com/srikanthkatrevula900/student-registration-form.git
-- Navigate to the project directory: cd Student-Registration-Form
+- Navigate to the project directory: cd student-registration-form
 - Install the dependencies: npm install
 
 ## Prerequisites:-
