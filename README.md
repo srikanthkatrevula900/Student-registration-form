@@ -32,7 +32,7 @@ This project is a web-based student registration form that allows students to en
 
 ## Usage
 - Start the server: npm start
-- Open the app in your browser: http://localhost:8080
+- Open the app in your browser: http://localhost:7080
 
 ## Contributing
 Contributions are welcome! If you want to contribute to this project, please follow these steps:
